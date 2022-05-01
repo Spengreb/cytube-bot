@@ -1,5 +1,5 @@
 import sys
-import socket
+from socket import *
 import logging
 
 try:
